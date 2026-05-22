@@ -1,5 +1,5 @@
 
-https://files.catbox,moe/zmiw98.png
+![]https://files.catbox,moe/zmiw98.png
 
 
                  
