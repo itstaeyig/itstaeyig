@@ -1,9 +1,4 @@
-**Now Playing** on Spotify
-
-<a href="https://now-playing-itstaeyig.vercel.app/now-playing?open">
-    <img src="https://now-playing-joshlmao.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
-
+wip again how tf do i add my spotify and center my images
                  
 
 
