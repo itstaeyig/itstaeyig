@@ -2,8 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=itstaeyig&color=61180E&style=plastic-&label=𓏼flesh˘" />
 </div>
 
-
-<div align="center">
+<h4 align="center">
 pt-walk-of-fame ੭ ponytown's Sigewinnie ( tysm to whoever nominated me ! )
 </div>
 
