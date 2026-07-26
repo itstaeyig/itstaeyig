@@ -3,7 +3,7 @@
 </div>
 
 <h4 align="center">
-pt-walk-of-fame ੭ ponytown's Sigewinnie ( tysm to whoever nominated me ! )
+pt-walk-of-fameㅤ੭ㅤponytown's Sigewinnie ( tysm to whoever nominated me ! )
 </div>
 
 ![Rust](https://github.com/itstaeyig/itstaeyig/blob/ed119748d00ca3083be59333c7d99299038e2737/Rust.png)
