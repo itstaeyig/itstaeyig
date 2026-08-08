@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itstaeyig&color=61180E&style=plastic-&label=𓏼flesh˘" />
+ᰍ　﹕  <img src="https://komarev.com/ghpvc/?username=itstaeyig&color=632ec7&style=plastic-&label=𓏼static˘" />　₎₎
 </div>
 
-![Rust](https://github.com/itstaeyig/itstaeyig/blob/ed119748d00ca3083be59333c7d99299038e2737/Rust.png)
-          
+  ![000](https://github.com/itstaeyig/itstaeyig/blob/231d69b27481ea94477da01ac2bed573f131bd75/000.gif.gif)
+
 
 
