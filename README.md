@@ -11,5 +11,5 @@
 </div>
 
 <p align="center">
-  <img width="400" height="235" src="https://github.com/itstaeyig/itstaeyig/blob/2184f2c4bf541d2df9bf4fb6d86a326826431265/thehuzzs.png">
+  <img width="4000" height="3000" src="https://github.com/itstaeyig/itstaeyig/blob/2184f2c4bf541d2df9bf4fb6d86a326826431265/thehuzzs.png">
 </p>
