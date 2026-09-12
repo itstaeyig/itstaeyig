@@ -1,5 +1,5 @@
 <div align="center">
-ᰍ　﹕  <img src="https://komarev.com/ghpvc/?username=itstaeyig&color=632ec7&style=plastic-&label=𓏼static˘" />　₎₎
+ᰍ　﹕  <img src="https://komarev.com/ghpvc/?username=itstaeyig&color=ED5049&style=plastic-&label=⠀ഒ⠀·⠀˚" />　₎₎
 </div>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DotGothic16&duration=3000&pause=500&color=632EC7&center=true&vCenter=true&width=435&lines=are+you+taking+me+on+a+mission%3F;or+on+a+date%3F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=25&duration=3000&pause=500&color=ED5049&center=true&width=435&lines=The+blessing+lingers+.+.+.;All+shall+fall+into+place+.+.+." alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
